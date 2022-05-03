@@ -13,9 +13,9 @@ Ophelia Houses is not responsible for the conduct of any other user who may inte
 In connection with your access and/or use of the Site or any Site services, you agree not to:
 
 - Violate any federal, state, or local laws or regulations.
-- Upload/post anything that imposes an unreasonable or disproportionately large strain on Glow’s network.
+- Upload/post anything that imposes an unreasonable or disproportionately large strain on Ophelia’s network.
 - Engage in any behavior that is designed to hack into or gain unauthorized access to protected areas of the bot’s computers, servers or networks, and/or any computers or systems used by other users of the bot.
-- Upload/post anything that could destroy, damage, or impair any portion of the bot or any computers, systems, hardware, or software used by Glow or other users.
+- Upload/post anything that could destroy, damage, or impair any portion of the bot or any computers, systems, hardware, or software used by Ophelia or other users.
 - Make unauthorized attempts to modify any information stored on the bot's database.
 - Make attempts to defeat or circumvent security features, or to utilize the bot for any other purpose other than its intended purposes.
 - Discuss, incite, or promote illegal activity.
@@ -23,7 +23,7 @@ In connection with your access and/or use of the Site or any Site services, you 
 - Use any automated technology such as a robot, spider, or scraper to access, scrape, or data mine the bot.
 - Use the bot to send spam or unsolicited bulk email.
 The previous list of prohibitions is not exclusive. Glow reserves the right to terminate your access to the bot or any Site services for any reason. 
-Glow reserves the right to refuse, delete, or edit any UGC without cause and without notice for any or no reason including, but not limited to, for any action that Glow's bot determines is inappropriate or disruptive to any other user of the bot.
-Glow is under no duty to, and does not represent it will, monitor and/or remove any UGC.
+Ophelia reserves the right to refuse, delete, or edit any UGC without cause and without notice for any or no reason including, but not limited to, for any action that Ophelia's bot determines is inappropriate or disruptive to any other user of the bot.
+Ophelia is under no duty to, and does not represent it will, monitor and/or remove any UGC.
 
 By accepting these TOS, you waive and hold harmless Ophelia Houses from any claims resulting from any action taken by it during or as a result of Ophelia Houses’s investigation and/or from any actions taken as a consequence of investigations by either Ophelia Houses or Ophelia Team related to your use of the bot.
