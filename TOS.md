@@ -22,7 +22,8 @@ In connection with your access and/or use of the Site or any Site services, you 
 - Upload/post any unsolicited or unauthorized advertising, promotional materials, spam emails, chain letters, pyramid schemes, or any other form of such solicitations.
 - Use any automated technology such as a robot, spider, or scraper to access, scrape, or data mine the bot.
 - Use the bot to send spam or unsolicited bulk email.
-The previous list of prohibitions is not exclusive. Glow reserves the right to terminate your access to the bot or any Site services for any reason. 
+The previous list of prohibitions is not exclusive. 
+Ophelia reserves the right to terminate your access to the bot or any Site services for any reason. 
 Ophelia reserves the right to refuse, delete, or edit any UGC without cause and without notice for any or no reason including, but not limited to, for any action that Ophelia's bot determines is inappropriate or disruptive to any other user of the bot.
 Ophelia is under no duty to, and does not represent it will, monitor and/or remove any UGC.
 
