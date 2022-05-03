@@ -21,6 +21,7 @@ Since discord does not provide this data we are required to store it ourselves. 
 We use the information we collect in the following ways:
 - Provide, operate, and maintain our discord bot
 - Provide all the functionalities that the bot has to offer
+
 *WE DO NOT SHARE ANY OF THE STORED INFORMATION WITH ANY THIRD PARTIES*
 
 # Data removal
