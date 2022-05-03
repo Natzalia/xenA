@@ -28,4 +28,4 @@ Ophelia Houses is a new idea bot that till now it does not exist on Discord, it 
 - You can join our [support server](https://discord.gg/opheliaa)
 - You can boost our server, or contribute by donating a Nitro giveaway
 - Star This repostory
-- anything done to support us is appriciated! 
+- anything done to support us is appriciated. 
