@@ -21,7 +21,7 @@ Ophelia Houses is a new idea bot that till now it does not exist on Discord, it 
 
 
 # Services
-- if you want to hire me, you may open a ticket in [Ophelia](https://discord.gg/opheliaa) using `.ticket custom bot`.
+- if you want to hire us, you may open a ticket in [Ophelia](https://discord.gg/opheliaa) using `.ticket custom bot`.
 
 
 # Steps To Support me
