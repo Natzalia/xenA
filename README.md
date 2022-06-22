@@ -10,7 +10,6 @@ Ophelia Houses is a new idea bot that till now it does not exist on Discord, it 
 
 # How to use Ophelia Houses
 - Invite [Ophelia Houses](https://discord.com/api/oauth2/authorize?client_id=968487683171180545&permissions=8&scope=bot%20applications.commands) 
-- The bot is only set with slash commands, except some fun and info commands you can use with prefix.
 - Type `/help` or `=help`
 - First of all you need to setup the bot in your server using `/setup`
 - Now you are ready to build your custom house!
