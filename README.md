@@ -19,11 +19,11 @@ Ophelia Houses is a new idea bot that till now it does not exist on Discord, it 
 
 
 # Services
-- if you want to hire us, you may open a ticket in [Ophelia](https://discord.gg/opheliaa) using `=ticket custom bot`.
+- if you want to hire us, you may open a ticket in [Ophelia](https://discord.gg/ophelia) using `=ticket custom bot`.
 
 
 # Steps To Support me
-- You can join our [support server](https://discord.gg/opheliaa)
+- You can join our [support server](https://discord.gg/ophelia)
 - You can boost our server, or contribute by donating a Nitro giveaway
 - Star This repostory
 - anything done to support us is appriciated. 
