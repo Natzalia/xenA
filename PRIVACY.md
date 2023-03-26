@@ -1,9 +1,9 @@
 # Privacy Policy 
 By using our Bot, you agree that you have read and agree to this policy.
 
-This is our "Privacy Policy" which sets out the policy which governs our use of information you provide in connection with the Ophelia Houses bot. 
+This is our "Privacy Policy" which sets out the policy which governs our use of information you provide in connection with the xenA bot. 
 The terms "you" and "your" refer to all individuals or entities accessing this bot. 
-The terms "we," "us," "our," refer to Ophelia Houses bot team and "bot" refers to our Discord bot itself.
+The terms "we," "us," "our," refer to xenA bot team and "bot" refers to our Discord bot itself.
 
 We may update this Privacy Policy from time to time. Changes in our Privacy Policy will be effective immediately. If you are a regular visitor to this website, we recommend that you check this Privacy Policy on a regular basis. By using the bot, you consent to the collection, use and transfer of your information in accordance with this Privacy Policy. If you do not agree to this Privacy Policy, please do not use our bot.
 
