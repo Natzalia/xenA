@@ -1,13 +1,13 @@
-Ophelia Team ("us" or "we" or "our") owns and operates the Ophelia Houses Discord Bot ("Bot"). The following Terms of Services (“TOS”) govern your use of the Bot, other sites or content owned or controlled by the Bot may have their own terms of use and should be reviewed.
+xenA Team ("us" or "we" or "our") owns and operates the xenA Discord Bot ("Bot"). The following Terms of Services (“TOS”) govern your use of the Bot, other sites or content owned or controlled by the Bot may have their own terms of use and should be reviewed.
 
-Using Ophelia Houses is at-will and can be terminated at any time by either us or you for any reason. 
-By using Ophelia Houses, you agree to be bound by these TOS. If you do not agree to be so bound, you are not authorized to use the Bot. 
-These TOS are a legal contract between you and Ophelia Houses and govern your access to it with any services offered through the bot.
+Using xenA is at-will and can be terminated at any time by either us or you for any reason. 
+By using xenA, you agree to be bound by these TOS. If you do not agree to be so bound, you are not authorized to use the Bot. 
+These TOS are a legal contract between you and xenA and govern your access to it with any services offered through the bot.
 
-# OPHELIA HOUSES BOT
-The purpose of Ophelia Houses bot is to create houses and manage them inside a discord server, create a 24/7 radio and provides other features.
-By using Ophelia Houses, you may need to interact with other bot users from different or same server. You are solely responsible for any such interaction and agree to do so in a manner that is legal, respectable, and consistent with these TOS.
-Ophelia Houses is not responsible for the conduct of any other user who may interact with you in the process, regardless of whether or not it is done through the bot or through the bot main server.
+# XENA BOT
+The purpose of xenA bot is to create houses and manage them inside a discord server, create a 24/7 radio and provides other features.
+By using xenA, you may need to interact with other bot users from different or same server. You are solely responsible for any such interaction and agree to do so in a manner that is legal, respectable, and consistent with these TOS.
+xenA is not responsible for the conduct of any other user who may interact with you in the process, regardless of whether or not it is done through the bot or through the bot main server.
 
 # PROHIBITED CONDUCT
 In connection with your access and/or use of the Site or any Site services, you agree not to:
@@ -25,12 +25,12 @@ In connection with your access and/or use of the Site or any Site services, you 
 
 The previous list of prohibitions is not exclusive. 
 
-Ophelia reserves the right to terminate your access to the bot or any Site services for any reason. 
+xenA reserves the right to terminate your access to the bot or any Site services for any reason. 
 
-Ophelia reserves the right to refuse, delete, or edit any UGC without cause and without notice for any or no reason including, but not limited to, for any action that 
+xenA reserves the right to refuse, delete, or edit any UGC without cause and without notice for any or no reason including, but not limited to, for any action that 
 
-Ophelia's bot determines is inappropriate or disruptive to any other user of the bot.
+xenA's bot determines is inappropriate or disruptive to any other user of the bot.
 
-Ophelia is under no duty to, and does not represent it will, monitor and/or remove any UGC.
+xenA is under no duty to, and does not represent it will, monitor and/or remove any UGC.
 
-By accepting these TOS, you waive and hold harmless Ophelia Houses from any claims resulting from any action taken by it during or as a result of Ophelia Houses’s investigation and/or from any actions taken as a consequence of investigations by either Ophelia Houses or Ophelia Team related to your use of the bot.
+By accepting these TOS, you waive and hold harmless xenA from any claims resulting from any action taken by it during or as a result of xenA’s investigation and/or from any actions taken as a consequence of investigations by either xenA or xenA Team related to your use of the bot.
