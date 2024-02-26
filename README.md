@@ -5,10 +5,10 @@ xenA is a new idea bot that till now it does not exist on Discord, it let your s
 
 # Info & Credits
 - This bot was made by Natalia and licensed by MIT.
-- We are not thinking of uploading publicly the source code of Ophelia Houses.
+- We are not thinking of uploading publicly the source code of xenA.
 
 
-# How to use Ophelia Houses
+# How to use xenA
 - Invite [xenA](https://discord.com/api/oauth2/authorize?client_id=1049464412077047809&permissions=8&scope=bot%20applications.commands) 
 - Type `/help` or `=help`
 - First of all you need to setup the bot in your server using `/setup`
